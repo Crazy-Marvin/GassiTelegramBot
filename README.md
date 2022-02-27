@@ -1,6 +1,6 @@
 [![Telegram Gassi Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/GassiTelegramBot/)
 [![GitHub Actions](https://github.com/Crazy-Marvin/GassiTelegramBot/actions/workflows/ci.yml/badge.svg)](https://github.com/Crazy-Marvin/GassiTelegramBot/actions/workflows/ci.yml)
-![healthchecks.io](https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/4EOhLWmS/Gassi.shields)
+![healthchecks.io](https://img.shields.io/endpoint?url=https://healthchecks.io/badge/396c7d03-faf7-4562-9f83-1194d0/4EOhLWmS/Gassi.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/GassiTelegramBot)](https://github.com/Crazy-Marvin/GassiTelegramBot/blob/trunk/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/GassiTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/GassiTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/GassiTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/GassiTelegramBot/releases)
