@@ -40,9 +40,9 @@ legal - This sends you some Terms & Conditions ⚖️
 
 - Token from [@Botfather](https://telegram.me/botfather)
 - SSL certificate (I recommend [Let's Encrypt](https://letsencrypt.org/))
-- Webserver running [PHP](https://www.php.net/) (tested with [Apache](https://httpd.apache.org/) & [NGINX](https://www.nginx.com/) but others should work too)
-- [MariaDB](https://mariadb.org/) database 
-- [Sentry](https://docs.sentry.io/platforms/python/) key (optional)
+- Webserver running [Python](https://www.python.org/) (tested with [Apache](https://httpd.apache.org/) & [NGINX](https://www.nginx.com/) but others should work too)
+- Google Cloud service account credentials (JSON) for accessing Google Sheets API & Google Drive API
+- [Sentry](https://sentry.io/) key (optional)
 - [Healthchecks](https://healthchecks.io/#php) URL (optional)
 
 ### Contributing
