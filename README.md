@@ -10,7 +10,7 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9ec4ee98a93425ca8162b369adce3db)](https://www.codacy.com/gh/Crazy-Marvin/GassiTelegramBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/GassiTelegramBot&amp;utm_campaign=Badge_Grade)
 [![Dependabot](https://badgen.net/badge/icon/dependabot?icon=dependabot&label)](https://python.org/)
 ![Snyk Vulnerabilities for GitHub Repo](https://img.shields.io/snyk/vulnerabilities/github/Crazy-Marvin/GassiTelegramBot)
-[![Telegram Gassi Bot](https://img.shields.io/badge/PHP-blue?logo=php)](https://t.me/GassiTelegramBot)
+[![Telegram Gassi Bot](https://img.shields.io/badge/Python-yellow?logo=python)](https://t.me/GassiTelegramBot)
 
 # Gassi Telegram Bot
 
