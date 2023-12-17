@@ -53,4 +53,4 @@ More details may be found in the [CONTRIUBTING.md](https://github.com/Crazy-Marv
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
