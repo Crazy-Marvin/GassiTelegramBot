@@ -14,4 +14,4 @@ food - This lets you know if a specific food is fine to eat (e.g. /food chocolat
 last - This sends you the last entries ℹ️  
 summary - This sends you a daily summary 💡  
 weekly - This sends you a weekly summary ✔️  
-legal - This sends you some Terms & Conditions ⚖️  
+privacy - This sends you Terms and Privacy Policy 🔐
